@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PatitoTrucado
 - 👀 I’m interested in software engineer
-- 🌱 I’m currently learning Git and GitHub
+- 🌱 I know how to use git professionally
 - 💞️ I’m looking to collaborate on a page web as frontend
 - 📫 How to reach me... Communicate with me in Discord as patovamp
 
